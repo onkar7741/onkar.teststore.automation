@@ -14,6 +14,6 @@ Accessing reports.
 
 
 Versions I have used:
-Java: 17.0.1
-Selenium: 4.8.1
-Cucumber: 7.11
+1.Java: 17.0.1
+2.Selenium: 4.8.1
+3.Cucumber: 7.11
