@@ -13,7 +13,7 @@ Accessing reports.
 3. Open the file in any browser to see the reports.
 
 
-Versions I have used:
-1.Java: 17.0.1
-2.Selenium: 4.8.1
-3.Cucumber: 7.11
+Versions used.
+Java: 17.0.1
+Selenium: 4.8.1
+Cucumber: 7.11
