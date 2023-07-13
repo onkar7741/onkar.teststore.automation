@@ -12,8 +12,9 @@ Accessing reports.
 2. You will find Report.html.
 3. Open the file in any browser to see the reports.
 
-
 Versions used.
 Java: 17.0.1
 Selenium: 4.8.1
 Cucumber: 7.11
+
+Note: If registration test is failing try changing email address and login name in Register page feature file.
